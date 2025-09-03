@@ -42,3 +42,10 @@ Before you begin, ensure you have the following installed:
 2.  You can add new tasks using the input form.
 3.  Mark tasks as complete by clicking the checkbox.
 4.  Load more tasks using the "Load More" button.
+
+
+# Improvment comments
+
+1. For projects more complex I whould use clean architecture to hace an aplication modularized, for example: each module mort have their own components, hooks, services, adapters, etc.
+2. Redux for manage the state of those modules.
+3. Jest for unit testing. 
